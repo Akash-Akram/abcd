@@ -1,0 +1,6 @@
+E:\Ak Projects\3Or5MultipleApp\3Or5MultipleApp\bin\Debug\3Or5MultipleApp.exe.config
+E:\Ak Projects\3Or5MultipleApp\3Or5MultipleApp\bin\Debug\3Or5MultipleApp.exe
+E:\Ak Projects\3Or5MultipleApp\3Or5MultipleApp\bin\Debug\3Or5MultipleApp.pdb
+E:\Ak Projects\3Or5MultipleApp\3Or5MultipleApp\obj\Debug\3Or5MultipleApp.csprojResolveAssemblyReference.cache
+E:\Ak Projects\3Or5MultipleApp\3Or5MultipleApp\obj\Debug\3Or5MultipleApp.exe
+E:\Ak Projects\3Or5MultipleApp\3Or5MultipleApp\obj\Debug\3Or5MultipleApp.pdb
